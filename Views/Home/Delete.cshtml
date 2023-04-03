@@ -1,0 +1,88 @@
+﻿@model QuizApp.Models.TBL_QUESTIONS
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+
+<style>
+    body {
+        background-image: url('../../content/img/b19.jfif');
+        background-size: cover;
+    }
+</style>
+<h2>Delete</h2>
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h1 style="color:green">@TempData["Msssg"]</h1>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Q_TEXT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Q_TEXT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OPA)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OPA)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OPB)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OPB)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OPC)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OPC)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OPD)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OPD)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.COP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.COP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TBL_CATEGORY.CAT_NAME)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TBL_CATEGORY.CAT_NAME)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

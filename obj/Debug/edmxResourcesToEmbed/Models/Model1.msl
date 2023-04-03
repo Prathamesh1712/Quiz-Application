@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="quizdataModelStoreContainer" CdmEntityContainer="quizdataEntities">
+    <EntitySetMapping Name="TBL_ADMIN">
+      <EntityTypeMapping TypeName="quizdataModel.TBL_ADMIN">
+        <MappingFragment StoreEntitySet="TBL_ADMIN">
+          <ScalarProperty Name="AD_ID" ColumnName="AD_ID" />
+          <ScalarProperty Name="AD_NAME" ColumnName="AD_NAME" />
+          <ScalarProperty Name="AD_PASSWORD" ColumnName="AD_PASSWORD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_CATEGORY">
+      <EntityTypeMapping TypeName="quizdataModel.TBL_CATEGORY">
+        <MappingFragment StoreEntitySet="TBL_CATEGORY">
+          <ScalarProperty Name="CAT_ID" ColumnName="CAT_ID" />
+          <ScalarProperty Name="CAT_NAME" ColumnName="CAT_NAME" />
+          <ScalarProperty Name="CAT_FK_ADID" ColumnName="CAT_FK_ADID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_QUESTIONS">
+      <EntityTypeMapping TypeName="quizdataModel.TBL_QUESTIONS">
+        <MappingFragment StoreEntitySet="TBL_QUESTIONS">
+          <ScalarProperty Name="QUESTION_ID" ColumnName="QUESTION_ID" />
+          <ScalarProperty Name="Q_TEXT" ColumnName="Q_TEXT" />
+          <ScalarProperty Name="OPA" ColumnName="OPA" />
+          <ScalarProperty Name="OPB" ColumnName="OPB" />
+          <ScalarProperty Name="OPC" ColumnName="OPC" />
+          <ScalarProperty Name="OPD" ColumnName="OPD" />
+          <ScalarProperty Name="COP" ColumnName="COP" />
+          <ScalarProperty Name="Q_FK_CATID" ColumnName="Q_FK_CATID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_SETEXAM">
+      <EntityTypeMapping TypeName="quizdataModel.TBL_SETEXAM">
+        <MappingFragment StoreEntitySet="TBL_SETEXAM">
+          <ScalarProperty Name="EXAM_ID" ColumnName="EXAM_ID" />
+          <ScalarProperty Name="EXAM_DATE" ColumnName="EXAM_DATE" />
+          <ScalarProperty Name="EXAM_FK_STU" ColumnName="EXAM_FK_STU" />
+          <ScalarProperty Name="EXAM_FK_CATID" ColumnName="EXAM_FK_CATID" />
+          <ScalarProperty Name="EXAM_STD_SCORE" ColumnName="EXAM_STD_SCORE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_STUDENT">
+      <EntityTypeMapping TypeName="quizdataModel.TBL_STUDENT">
+        <MappingFragment StoreEntitySet="TBL_STUDENT">
+          <ScalarProperty Name="S_ID" ColumnName="S_ID" />
+          <ScalarProperty Name="S_NAME" ColumnName="S_NAME" />
+          <ScalarProperty Name="S_PASSWORD" ColumnName="S_PASSWORD" />
+          <ScalarProperty Name="S_EMAIL" ColumnName="S_EMAIL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

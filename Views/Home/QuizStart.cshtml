@@ -1,0 +1,81 @@
+﻿@model QuizApp.Models.TBL_QUESTIONS
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    @if (ViewBag.msg != null)
+    {
+        <div class="alert alert-danger">
+            <strong>Error!</strong>@ViewBag.msg
+
+        </div>
+    }
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-image: url('../../content/img/b11.jfif');
+            background-size: cover;
+        }
+    </style>
+
+
+
+    <title>QuizStart</title>
+
+</head>
+<body>
+    @using (Html.BeginForm()) 
+    {
+        @Html.AntiForgeryToken()
+        
+        <div class="container" style="font-family:'Arial Rounded MT'">
+            <h1>Exam Started......</h1>
+               <div class="row">
+                   <div class="col-lg-10 col-md-10 col-xs-10 col-sm-10 ">
+                       <div class="row">
+                           <h3 style="font-family:Arial,Arial, Helvetica, sans-serif">@Html.DisplayFor(x => x.Q_TEXT)</h3>
+                       </div>
+                       <br />
+                       <br />
+
+                       <div class="row">
+                           <h5>@Html.RadioButtonFor(x => x.OPA, Model.QUESTION_ID)@Model.OPA</h5>
+                       </div>
+                       <br />
+                       <div class="row">
+                           <h5>@Html.RadioButtonFor(x => x.OPB, Model.QUESTION_ID)@Model.OPB</h5>
+                       </div>
+                       <br />
+                       <div class="row">
+                           <h5>@Html.RadioButtonFor(x => x.OPC, Model.QUESTION_ID)@Model.OPC</h5>
+                       </div>
+                       <br />
+                       <div class="row">
+                           <h5>@Html.RadioButtonFor(x => x.OPD, Model.QUESTION_ID)@Model.OPD</h5>
+                       </div>
+                       <br />
+                       
+                       <div class="row" style="display:none">
+                           @Html.TextBoxFor(x=>x.COP)
+                       </div>
+                   </div>                   
+               </div>
+       <br /><br />
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Submit" class="btn btn-success" />
+                </div>
+            </div>
+        </div>
+    }
+    
+   
+</body>
+</html>

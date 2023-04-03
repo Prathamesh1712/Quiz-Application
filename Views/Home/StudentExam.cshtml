@@ -1,0 +1,61 @@
+﻿@model IEnumerable<QuizApp.Models.TBL_CATEGORY>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-image: url('../../content/img/a6.jfif');
+            background-size: cover;
+        }
+    </style>
+   
+    <title>StudentExam</title>
+</head>
+<body>
+    @if (@ViewBag.error != null)
+    {
+        <div class="alert alert-danger">
+            <strong>Error!</strong>@ViewBag.error
+
+        </div>
+    }
+
+    @using (Html.BeginForm())
+    {
+        <div class="container">
+            <br />
+            <br />
+            <h1 style="text-align:center;color:#ffffff;font-family:Algerian ">Quiz Topic</h1>
+            <input type="text" id="room" name="room" placeholder="Select Or Enter topic Name" class="form-control">
+               
+    @*<div class="col-md-10">
+                @Html.DropDownList("CAT_ID", ViewBag.list as SelectList, "--------Select Subject--------", htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model=>model.CAT_ID, "", new { @class = "text-danger" })
+            </div>*@
+
+            <br />
+            <br />
+            <center>
+                <input type="submit" value="Submit" class="btn btn-warning btn-dark" />
+                <input type="button" class="btn btn-warning btn-dark" value="Status" onclick="location.href='@Url.Action("StudStatus", "Home")'" />
+
+                <input type="button" class="btn btn-warning btn-dark" value="LogOut" onclick="location.href='@Url.Action("SLOGIN", "Home")'" />
+
+            </center>
+        </div>
+    }
+
+
+    
+
+</body>
+</html>
+ 

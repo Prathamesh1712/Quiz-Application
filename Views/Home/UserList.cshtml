@@ -1,0 +1,34 @@
+﻿@model IEnumerable<QuizApp.Models.TBL_STUDENT>
+@{
+    ViewBag.Title = "UserList";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+<h1 style="text-align:center;background-color:orange">Student View</h1>
+
+
+<table class="table">
+    <tr>
+        <th>
+            Roll Number
+        </th>
+        <th>Student EmailId</th>
+        <th>Student Name</th>
+
+
+    </tr>
+
+    @foreach (QuizApp.Models.TBL_STUDENT student in Model)
+    {
+        <tr>
+            <td>@student.S_ID</td>
+            <td>@student.S_NAME</td>
+            <td>@student.S_EMAIL</td>
+
+
+        </tr>
+    }
+
+</table>
+<br />
+<a href="ExportPDF">Export List</a>
+

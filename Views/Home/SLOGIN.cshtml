@@ -1,0 +1,71 @@
+﻿@model QuizApp.Models.TBL_STUDENT
+
+@{
+    ViewBag.Title = "SLOGIN";
+}
+
+
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<style>
+    body {
+        background-image: url('../../content/img/L3.jfif');
+        background-size: cover;
+    }
+</style>
+
+@if (ViewBag.msg != null)
+{
+    <div class="alert alert-danger">
+        <strong>Error!</strong>@ViewBag.msg
+
+    </div>
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal" style="color:white" >
+        <h2 >Student Login</h2>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <label for="exampleName" class="form-label mt-4 col-md-2">Email Id</label>
+
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.S_NAME, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.S_NAME, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="examplepass" class="form-label mt-4">Password</label>
+            <div class="col-md-10">
+                @Html.PasswordFor(model => model.S_PASSWORD, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.S_PASSWORD, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <br />
+      
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Login" class="btn btn-danger btn-dark" />
+                <input type="button" class="btn btn-warning btn-dark" value="Cancel" onclick="location.href='@Url.Action("Index", "Home")'" />
+
+            </div>
+        </div>
+    </div>
+}
+<br />
+<div>
+    <h4>
+        @Html.ActionLink("Register Now", "sregister", null, new { id = "OT", style = "color: white" });
+    </h4>
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

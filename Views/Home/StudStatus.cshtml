@@ -1,0 +1,78 @@
+﻿@model IEnumerable<QuizApp.Models.TBL_SETEXAM>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>StudStatus</title>
+
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-image: url('../../content/img/b8.jfif');
+            background-size: cover;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <br />
+        <br />
+        <h1 style="text-align:center;color:#ffffff;font-family:Algerian ">Students Status</h1>
+        <p>
+            <h3><b>Student Id :</b> @ViewBag.Email</h3>
+            <h3><b>Email Id :</b> @ViewBag.Name</h3>
+
+        </p>
+    </div>
+
+    <table class="table">
+        <tr>
+            <th>
+                Exam Id
+            </th>
+            <th>
+              Exam Date  
+            </th>          
+            <th>
+             Subject Name
+            </th>
+            <th>
+            Score Obtained
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EXAM_ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EXAM_DATE)
+                </td>
+               
+                <td>
+                    @Html.DisplayFor(modelItem => item.TBL_CATEGORY.CAT_NAME)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EXAM_STD_SCORE)
+                </td>
+
+            </tr>
+        }
+
+    </table>
+    <input type="button" class="btn btn-warning btn-dark" value="Back" onclick="location.href='@Url.Action("StudentExam", "Home")'" />
+
+
+</body>
+</html>

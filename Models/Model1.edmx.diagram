@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="70ac1cc66de446419d72b3f2fe37490c" Name="Diagram1">
+        <EntityTypeShape EntityType="quizdataModel.TBL_ADMIN" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="quizdataModel.TBL_CATEGORY" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="quizdataModel.TBL_QUESTIONS" Width="1.5" PointX="5.25" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="quizdataModel.TBL_SETEXAM" Width="1.5" PointX="8.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="quizdataModel.TBL_STUDENT" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="quizdataModel.FK__TBL_CATEG__CAT_F__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="quizdataModel.FK__TBL_QUEST__Q_FK___45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="quizdataModel.FK__TBL_SETEX__EXAM___47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="quizdataModel.FK__TBL_SETEX__EXAM___48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="quizdataModel.FK__TBL_SETEX__EXAM___46E78A0C" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

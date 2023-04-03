@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" onclick="location.href='@Url.Action("Index", "Home")'">TechnoQuizzers</a>
+            <div class="collapse navbar-collapse" id="navbarColor02">
+                <ul class="nav navbar-nav me-auto">
+                    <li style="padding-left: 30px">@Html.ActionLink("Teacher Login", "TLOGIN", "Home")</li>
+                    <li style="padding-left: 30px">@Html.ActionLink("Student Login", "SLOGIN", "Home")</li>
+                    <li style="padding-left: 30px">@Html.ActionLink("About Us", "About", "Home")</li>
+                    <li style="padding-left: 30px">@Html.ActionLink("Contact Us", "Contact", "Home")</li>
+           
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,346 @@
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\QuizApp.dll.config
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\QuizApp.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\QuizApp.pdb
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\csc.exe
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\csc.exe.config
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\csc.rsp
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\csi.exe
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\csi.exe.config
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\csi.rsp
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Console.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\vbc.exe
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\vbc.exe.config
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\vbc.rsp
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\Antlr3.Runtime.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.Helpers.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.Mvc.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.Optimization.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.Razor.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.WebPages.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\WebGrease.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.Helpers.xml
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.Mvc.xml
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.Optimization.xml
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.Razor.xml
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.WebPages.xml
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CopyComplete
+C:\Users\DELL\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\EntityFramework.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\EntityFramework.xml
+C:\Users\DELL\source\repos\QuizApp\QuizApp\bin\EntityFramework.SqlServer.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\QuizApp.dll.config
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\QuizApp.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\QuizApp.pdb
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\csc.exe
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\csc.exe.config
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\csc.rsp
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\csi.exe
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\csi.exe.config
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\csi.rsp
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.AppContext.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Collections.Immutable.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Console.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.IO.Compression.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.IO.FileSystem.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Net.Http.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Net.Sockets.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.ValueTuple.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Xml.XPath.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\vbc.exe
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\vbc.exe.config
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\vbc.rsp
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\VBCSCompiler.exe
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\roslyn\VBCSCompiler.exe.config
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\Antlr3.Runtime.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\EntityFramework.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\EntityFramework.SqlServer.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\Newtonsoft.Json.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.Helpers.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.Mvc.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.Optimization.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.Razor.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.WebPages.Deployment.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.WebPages.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.WebPages.Razor.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\WebGrease.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\EntityFramework.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\EntityFramework.SqlServer.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.Helpers.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.Mvc.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.Optimization.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.Razor.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.WebPages.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.WebPages.Deployment.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\System.Web.WebPages.Razor.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\Newtonsoft.Json.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\Antlr3.Runtime.pdb
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.AssemblyReference.cache
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CopyComplete
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\obj\Debug\QuizApp.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\PagedList.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\PagedList.Mvc.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\Rotativa.dll
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\PagedList.xml
+D:\CDAC QUIZ Project\Prathmesh\QuizApp\QuizApp\bin\PagedList.Mvc.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.AssemblyReference.cache
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\obj\Debug\QuizApp.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\QuizApp.dll.config
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\QuizApp.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\QuizApp.pdb
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\csc.exe
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\csc.exe.config
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\csc.rsp
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\csi.exe
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\csi.exe.config
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\csi.rsp
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.AppContext.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Collections.Immutable.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Console.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.IO.Compression.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.IO.FileSystem.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Net.Http.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Net.Sockets.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.ValueTuple.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Xml.XPath.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\vbc.exe
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\vbc.exe.config
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\vbc.rsp
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\VBCSCompiler.exe
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\roslyn\VBCSCompiler.exe.config
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\Antlr3.Runtime.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\EntityFramework.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\EntityFramework.SqlServer.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\Newtonsoft.Json.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\PagedList.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\PagedList.Mvc.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\Rotativa.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.Helpers.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.Mvc.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.Optimization.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.Razor.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.WebPages.Deployment.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.WebPages.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.WebPages.Razor.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\WebGrease.dll
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\EntityFramework.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\EntityFramework.SqlServer.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\PagedList.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\PagedList.Mvc.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.Helpers.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.Mvc.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.Optimization.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.Razor.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.WebPages.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.WebPages.Deployment.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\System.Web.WebPages.Razor.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\Newtonsoft.Json.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\Antlr3.Runtime.pdb
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CDAC QUIZ Project\finalQuiz\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CopyComplete
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\QuizApp.dll.config
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\QuizApp.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\QuizApp.pdb
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\csc.exe
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\csc.exe.config
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\csc.rsp
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\csi.exe
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\csi.exe.config
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\csi.rsp
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Console.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\vbc.exe
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\vbc.exe.config
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\vbc.rsp
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\Antlr3.Runtime.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\EntityFramework.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\PagedList.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\PagedList.Mvc.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\Rotativa.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.Helpers.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.Mvc.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.Optimization.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.Razor.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.WebPages.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\WebGrease.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\EntityFramework.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\PagedList.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\PagedList.Mvc.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.Helpers.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.Mvc.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.Optimization.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.Razor.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.WebPages.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\obj\Debug\QuizApp.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CopyComplete
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\obj\Debug\QuizApp.dll
+C:\Users\DELL\source\repos\QuizApp (1)\QuizApp\QuizApp\obj\Debug\QuizApp.pdb

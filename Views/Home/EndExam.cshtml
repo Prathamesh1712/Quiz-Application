@@ -1,0 +1,35 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-image: url('../../content/img/b4.png');
+            background-size: cover;
+        }
+    </style>
+
+
+    <title>End Exam</title>
+</head>
+<body>
+    <div>
+        <h1 style="text-align:center">Exam End .....Thank You!!</h1>
+        <br />
+        <h2 style="text-align:center">Your Score is @TempData["score"] out of @ViewBag.count </h2>
+
+
+        <br />
+        <br />
+        <h4>   @Html.ActionLink("Go To HomePage", "StudentExam")</h4>
+    </div>
+</body>
+</html>
